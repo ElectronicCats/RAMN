@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ramn-rescue")(type "KiCad")(uri "${KIPRJMOD}/ramn-rescue.kicad_sym")(options "")(descr ""))
+)
