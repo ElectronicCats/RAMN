@@ -635,7 +635,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "Body_Gerber",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
