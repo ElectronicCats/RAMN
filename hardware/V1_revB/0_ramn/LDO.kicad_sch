@@ -922,10 +922,6 @@
 		)
 		(instances
 			(project "ramn"
-				(path "/5c9d0d4a-249f-45d4-a492-4d8f074d1b1c"
-					(reference "U?")
-					(unit 1)
-				)
 				(path "/5c9d0d4a-249f-45d4-a492-4d8f074d1b1c/00000000-0000-0000-0000-00005d7dea89/00000000-0000-0000-0000-00005d7f286f"
 					(reference "U12")
 					(unit 1)
@@ -1030,10 +1026,6 @@
 		)
 		(instances
 			(project "ramn"
-				(path "/5c9d0d4a-249f-45d4-a492-4d8f074d1b1c"
-					(reference "C?")
-					(unit 1)
-				)
 				(path "/5c9d0d4a-249f-45d4-a492-4d8f074d1b1c/00000000-0000-0000-0000-00005d7dea89/00000000-0000-0000-0000-00005d7f286f"
 					(reference "C41")
 					(unit 1)
@@ -1138,10 +1130,6 @@
 		)
 		(instances
 			(project "ramn"
-				(path "/5c9d0d4a-249f-45d4-a492-4d8f074d1b1c"
-					(reference "C?")
-					(unit 1)
-				)
 				(path "/5c9d0d4a-249f-45d4-a492-4d8f074d1b1c/00000000-0000-0000-0000-00005d7dea89/00000000-0000-0000-0000-00005d7f286f"
 					(reference "C42")
 					(unit 1)
@@ -1231,10 +1219,6 @@
 		)
 		(instances
 			(project "ramn"
-				(path "/5c9d0d4a-249f-45d4-a492-4d8f074d1b1c"
-					(reference "#PWR?")
-					(unit 1)
-				)
 				(path "/5c9d0d4a-249f-45d4-a492-4d8f074d1b1c/00000000-0000-0000-0000-00005d7dea89/00000000-0000-0000-0000-00005d7f286f"
 					(reference "#PWR079")
 					(unit 1)
@@ -1324,10 +1308,6 @@
 		)
 		(instances
 			(project "ramn"
-				(path "/5c9d0d4a-249f-45d4-a492-4d8f074d1b1c"
-					(reference "#PWR?")
-					(unit 1)
-				)
 				(path "/5c9d0d4a-249f-45d4-a492-4d8f074d1b1c/00000000-0000-0000-0000-00005d7dea89/00000000-0000-0000-0000-00005d7f286f"
 					(reference "#PWR080")
 					(unit 1)
@@ -1417,10 +1397,6 @@
 		)
 		(instances
 			(project "ramn"
-				(path "/5c9d0d4a-249f-45d4-a492-4d8f074d1b1c"
-					(reference "#PWR?")
-					(unit 1)
-				)
 				(path "/5c9d0d4a-249f-45d4-a492-4d8f074d1b1c/00000000-0000-0000-0000-00005d7dea89/00000000-0000-0000-0000-00005d7f286f"
 					(reference "#PWR078")
 					(unit 1)
@@ -1523,10 +1499,6 @@
 		)
 		(instances
 			(project "ramn"
-				(path "/5c9d0d4a-249f-45d4-a492-4d8f074d1b1c"
-					(reference "D?")
-					(unit 1)
-				)
 				(path "/5c9d0d4a-249f-45d4-a492-4d8f074d1b1c/00000000-0000-0000-0000-00005d7dea89/00000000-0000-0000-0000-00005d7f286f"
 					(reference "D4")
 					(unit 1)

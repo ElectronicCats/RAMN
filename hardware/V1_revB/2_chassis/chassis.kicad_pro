@@ -160,7 +160,7 @@
         "min_track_width": 0.2,
         "min_via_annular_width": 0.1,
         "min_via_diameter": 0.4,
-        "solder_mask_to_copper_clearance": 0.0,
+        "solder_mask_to_copper_clearance": 0.005,
         "use_height_for_length_calcs": true
       },
       "teardrop_options": [
@@ -811,7 +811,7 @@
         "uuid": "e002719d-0ac0-46ab-ae27-c279a7634c07"
       }
     ],
-    "used_designators": "RV1",
+    "used_designators": "RV1,SW1",
     "variants": []
   },
   "sheets": [

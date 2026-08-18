@@ -3623,7 +3623,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-00005d8122e0")
 		(property "Reference" "H1"
 			(at 29.21 141.0716 0)
@@ -3698,7 +3698,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-00005d81305f")
 		(property "Reference" "H3"
 			(at 50.8 141.0716 0)
@@ -5191,7 +5191,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-00005de9f71c")
 		(property "Reference" "H2"
 			(at 29.21 151.2316 0)
@@ -5266,7 +5266,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-00005deaacf1")
 		(property "Reference" "H4"
 			(at 50.8 151.2316 0)
@@ -5430,7 +5430,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-00005fd00fc6")
 		(property "Reference" "FID1"
 			(at 28.829 162.6616 0)
@@ -5505,7 +5505,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-00005fd08432")
 		(property "Reference" "FID2"
 			(at 42.799 162.6616 0)
@@ -5580,7 +5580,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-00005fd0a49c")
 		(property "Reference" "FID3"
 			(at 56.769 162.6616 0)
@@ -5733,14 +5733,6 @@
 					(reference "R17")
 					(unit 1)
 				)
-				(path "/5c9d0d4a-249f-45d4-a492-4d8f074d1b1c/00000000-0000-0000-0000-00005d815e09"
-					(reference "R?")
-					(unit 1)
-				)
-				(path "/5c9d0d4a-249f-45d4-a492-4d8f074d1b1c/00000000-0000-0000-0000-00005d8ede42"
-					(reference "R?")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -5842,18 +5834,6 @@
 			(project "ramn"
 				(path "/5c9d0d4a-249f-45d4-a492-4d8f074d1b1c"
 					(reference "C43")
-					(unit 1)
-				)
-				(path "/5c9d0d4a-249f-45d4-a492-4d8f074d1b1c/00000000-0000-0000-0000-00005d815e09"
-					(reference "C?")
-					(unit 1)
-				)
-				(path "/5c9d0d4a-249f-45d4-a492-4d8f074d1b1c/00000000-0000-0000-0000-00005d8bffce"
-					(reference "C?")
-					(unit 1)
-				)
-				(path "/5c9d0d4a-249f-45d4-a492-4d8f074d1b1c/00000000-0000-0000-0000-00005d8ede42"
-					(reference "C?")
 					(unit 1)
 				)
 			)

@@ -2258,6 +2258,152 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "SK14DG13_1"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "SW4"
+				(at 0 10.414 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "SK14DG13_1_1_1"
+				(rectangle
+					(start -7.62 8.89)
+					(end 7.62 -8.89)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin input line
+					(at 10.16 -6.35 180)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 10.16 0 180)
+					(length 2.54)
+					(name "Pad1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 10.16 6.35 180)
+					(length 2.54)
+					(name "3V3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -10.16 0 0)
+					(length 2.54)
+					(name "KEY"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "C1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "power:+5V"
 			(power global)
 			(pin_numbers
@@ -2550,7 +2696,7 @@
 		(uuid "7423479c-701e-4445-891a-49d888dc4b2e")
 	)
 	(junction
-		(at 163.83 102.87)
+		(at 152.4 102.87)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "809186f6-3147-4b43-ac69-ddcf5ce93341")
@@ -2598,7 +2744,7 @@
 		(uuid "cb8df9cb-b796-4f9a-a655-08d1766008cb")
 	)
 	(junction
-		(at 160.02 102.87)
+		(at 148.59 102.87)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d60bdf10-d611-40b5-bed2-c1df75bbf8b4")
@@ -2699,7 +2845,7 @@
 	)
 	(wire
 		(pts
-			(xy 163.83 104.14) (xy 163.83 102.87)
+			(xy 152.4 104.14) (xy 152.4 102.87)
 		)
 		(stroke
 			(width 0)
@@ -2709,7 +2855,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 113.03) (xy 195.58 113.03)
+			(xy 184.15 113.03) (xy 195.58 113.03)
 		)
 		(stroke
 			(width 0)
@@ -2739,7 +2885,7 @@
 	)
 	(wire
 		(pts
-			(xy 163.83 102.87) (xy 160.02 102.87)
+			(xy 152.4 102.87) (xy 148.59 102.87)
 		)
 		(stroke
 			(width 0)
@@ -2869,7 +3015,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 100.33) (xy 185.42 91.44)
+			(xy 184.15 96.52) (xy 184.15 91.44)
 		)
 		(stroke
 			(width 0)
@@ -2949,7 +3095,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 102.87) (xy 157.48 102.87)
+			(xy 148.59 102.87) (xy 146.05 102.87)
 		)
 		(stroke
 			(width 0)
@@ -2969,7 +3115,7 @@
 	)
 	(wire
 		(pts
-			(xy 168.91 102.87) (xy 163.83 102.87)
+			(xy 157.48 102.87) (xy 152.4 102.87)
 		)
 		(stroke
 			(width 0)
@@ -2979,7 +3125,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 105.41) (xy 185.42 113.03)
+			(xy 184.15 109.22) (xy 184.15 113.03)
 		)
 		(stroke
 			(width 0)
@@ -3009,7 +3155,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 91.44) (xy 195.58 91.44)
+			(xy 184.15 91.44) (xy 195.58 91.44)
 		)
 		(stroke
 			(width 0)
@@ -3049,7 +3195,7 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 105.41) (xy 185.42 105.41)
+			(xy 177.8 109.22) (xy 184.15 109.22)
 		)
 		(stroke
 			(width 0)
@@ -3219,6 +3365,16 @@
 	)
 	(wire
 		(pts
+			(xy 177.8 102.87) (xy 195.58 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d7b1c20b-a2d5-4dab-90ab-aeda0f2fb6a4")
+	)
+	(wire
+		(pts
 			(xy 132.08 44.45) (xy 132.08 41.91)
 		)
 		(stroke
@@ -3229,17 +3385,7 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 102.87) (xy 195.58 102.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d9fb2e9a-422d-42b9-ae12-a415cef259f4")
-	)
-	(wire
-		(pts
-			(xy 179.07 100.33) (xy 185.42 100.33)
+			(xy 177.8 96.52) (xy 184.15 96.52)
 		)
 		(stroke
 			(width 0)
@@ -3475,7 +3621,7 @@
 	)
 	(global_label "Key"
 		(shape output)
-		(at 157.48 102.87 180)
+		(at 146.05 102.87 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3484,7 +3630,7 @@
 		)
 		(uuid "b16b917c-3e5c-4513-8b0b-0e0820e943dc")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 157.48 102.87 0)
+			(at 146.05 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3636,7 +3782,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-00005d80ea60")
 		(property "Reference" "H5"
 			(at 29.21 38.2016 0)
@@ -3722,7 +3868,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-00005d80ee26")
 		(property "Reference" "H6"
 			(at 29.21 43.2816 0)
@@ -5913,7 +6059,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 160.02 102.87 0)
+		(at 148.59 102.87 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5923,7 +6069,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005deecd9f")
 		(property "Reference" "POS1"
-			(at 161.29 99.06 0)
+			(at 149.86 99.06 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5934,7 +6080,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 161.29 101.6 0)
+			(at 149.86 101.6 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5945,7 +6091,7 @@
 			)
 		)
 		(property "Footprint" "Global_Library:KEYSTONE_5002"
-			(at 165.1 102.87 0)
+			(at 153.67 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5956,7 +6102,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 165.1 102.87 0)
+			(at 153.67 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5967,7 +6113,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 160.02 102.87 0)
+			(at 148.59 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5978,7 +6124,7 @@
 			)
 		)
 		(property "LCSC" "C5277086"
-			(at 160.02 102.87 0)
+			(at 148.59 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6429,7 +6575,7 @@
 	)
 	(symbol
 		(lib_id "Device:D_TVS")
-		(at 163.83 107.95 270)
+		(at 152.4 107.95 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6439,7 +6585,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-0000602e185d")
 		(property "Reference" "TVS7"
-			(at 165.862 107.95 90)
+			(at 154.432 107.95 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6450,7 +6596,7 @@
 			)
 		)
 		(property "Value" "D_TVS"
-			(at 165.862 109.093 90)
+			(at 154.432 109.093 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6462,7 +6608,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-123F"
-			(at 163.83 107.95 0)
+			(at 152.4 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6473,7 +6619,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 163.83 107.95 0)
+			(at 152.4 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6484,7 +6630,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 163.83 107.95 0)
+			(at 152.4 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6495,7 +6641,7 @@
 			)
 		)
 		(property "LCSC" "C1849694"
-			(at 163.83 107.95 90)
+			(at 152.4 107.95 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6522,7 +6668,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 163.83 111.76 0)
+		(at 152.4 111.76 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6532,7 +6678,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-0000602e36f7")
 		(property "Reference" "#PWR0101"
-			(at 163.83 118.11 0)
+			(at 152.4 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6543,7 +6689,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 166.37 111.76 0)
+			(at 154.94 111.76 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6553,7 +6699,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 163.83 111.76 0)
+			(at 152.4 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6564,7 +6710,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 163.83 111.76 0)
+			(at 152.4 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6575,7 +6721,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 163.83 111.76 0)
+			(at 152.4 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6592,91 +6738,6 @@
 			(project "body"
 				(path "/a57f77f6-6a96-464e-9c74-0d342c7a10ff"
 					(reference "#PWR0101")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "custom:SK14EG13")
-		(at 173.99 102.87 0)
-		(mirror x)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-0000602e3a27")
-		(property "Reference" "SW4"
-			(at 173.99 94.615 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SK14EG13"
-			(at 173.99 96.9264 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "custom:SK14EG13"
-			(at 158.115 107.315 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 158.115 107.315 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 173.99 102.87 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC" "C34362858"
-			(at 173.99 102.87 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(instances
-			(project "body"
-				(path "/a57f77f6-6a96-464e-9c74-0d342c7a10ff"
-					(reference "SW4")
 					(unit 1)
 				)
 			)
@@ -6783,7 +6844,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-00006033a131")
 		(property "Reference" "FID1"
 			(at 47.879 139.8016 0)
@@ -6869,7 +6930,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-00006033af7c")
 		(property "Reference" "FID2"
 			(at 60.579 139.8016 0)
@@ -6955,7 +7016,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-00006033b3c3")
 		(property "Reference" "FID3"
 			(at 73.279 139.8016 0)
@@ -7027,6 +7088,93 @@
 			(project "body"
 				(path "/a57f77f6-6a96-464e-9c74-0d342c7a10ff"
 					(reference "FID3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "SK14DG13_1")
+		(lib_id "RAMN_New_Symbols:SK14DG13")
+		(at 167.64 102.87 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e36d924d-0613-4652-9aad-c5e4521d020e")
+		(property "Reference" "SW2"
+			(at 167.64 91.44 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 167.64 102.87 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "RAMN_New_Footprint:SK14dG13"
+			(at 167.64 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 167.64 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 167.64 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "1f82808b-7332-4bd4-b375-64e2d17b9e6c")
+		)
+		(pin "1"
+			(uuid "0f87e9da-0ffb-43b0-8c00-16cc55520b77")
+		)
+		(pin "C1"
+			(uuid "f09cb890-1a9a-4c3a-ba24-37dd33e84046")
+		)
+		(pin "3"
+			(uuid "5b954463-79c5-41c5-9923-299af36b0994")
+		)
+		(instances
+			(project "body"
+				(path "/a57f77f6-6a96-464e-9c74-0d342c7a10ff"
+					(reference "SW2")
 					(unit 1)
 				)
 			)
