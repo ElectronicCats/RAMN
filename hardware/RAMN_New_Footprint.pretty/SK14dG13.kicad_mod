@@ -1,0 +1,222 @@
+(footprint "SK14dG13"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "SW4"
+		(at -2.286 8.636 180)
+		(layer "F.SilkS")
+		(uuid "fb7219b2-fb75-481b-9ac2-35c251fb8f8c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "SK14DG13"
+		(at 3.81 6.35 90)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5aedb513-549d-432c-a912-f1f405964d3e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b3a522b7-40e1-4f4b-8387-1d3a13de24bf")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "08d4bee0-a98e-4b71-9577-fe407fd0e1e4")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -7.2644 -7.9248)
+		(end -7.2644 7.8152)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5863ee01-b7eb-44d7-b3ac-3529610767ed")
+	)
+	(fp_line
+		(start -6.2738 -7.9248)
+		(end -7.2644 -7.9248)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "91301c97-8fe5-4e66-abec-152d102c7811")
+	)
+	(fp_line
+		(start -6.2738 7.8232)
+		(end -7.2644 7.8232)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "96b9e08e-5e85-4e61-a758-d0536afa9090")
+	)
+	(fp_line
+		(start 3.8862 -7.9248)
+		(end -3.7338 -7.9248)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "fc17638d-487f-4425-a5f4-2706b4b02799")
+	)
+	(fp_line
+		(start 3.8862 7.8232)
+		(end -3.7338 7.8232)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "82306ea7-b0b7-434a-ac29-ea39b8dbd9b9")
+	)
+	(fp_line
+		(start 7.2356 -7.9248)
+		(end 6.245 -7.9248)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "29ea4e66-71c8-4213-911f-621fb24f941e")
+	)
+	(fp_line
+		(start 7.2356 7.8152)
+		(end 6.245 7.8152)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3f15461f-a50e-41e0-8e27-bd6dd87b028e")
+	)
+	(fp_line
+		(start 7.2356 7.8152)
+		(end 7.2356 -7.9248)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a281db00-ef8a-4d6c-90b3-be65ec843015")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 10 0)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "34f89465-a56e-4baf-8ca7-006799a37a69")
+	)
+	(pad "" thru_hole circle
+		(at -5.08 -7.62)
+		(size 1.524 1.524)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "641192bc-a5fa-4398-83ff-ae6362d1b08f")
+	)
+	(pad "" thru_hole circle
+		(at -5.08 7.62)
+		(size 1.524 1.524)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "079eff3b-fb6c-46a1-9a02-9695aeca9b12")
+	)
+	(pad "" thru_hole circle
+		(at 5.08 -7.62)
+		(size 1.524 1.524)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "f9216d31-88fa-4c55-8a97-a1a2a6da5c3b")
+	)
+	(pad "" thru_hole circle
+		(at 5.08 7.62)
+		(size 1.524 1.524)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "f447be3b-0f16-4c41-a47e-ab830028f5e9")
+	)
+	(pad "1" thru_hole circle
+		(at 5.08 -5.08)
+		(size 1.524 1.524)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "fdffbbf4-e8f9-469e-9fcf-9ecb50b8e408")
+	)
+	(pad "2" thru_hole circle
+		(at 5.08 -2.54)
+		(size 1.524 1.524)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "d921d93e-2e67-47e3-a303-ca6abc55763e")
+	)
+	(pad "3" thru_hole circle
+		(at 5.08 0)
+		(size 1.524 1.524)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "00eea54e-855c-47c5-8a82-b21efc1758cd")
+	)
+	(pad "C1" thru_hole circle
+		(at 5.08 5.08)
+		(size 1.524 1.524)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "7a052a4a-5dbb-4f30-9889-05e91ce6d3eb")
+	)
+	(embedded_fonts no)
+	(model "C:/Users/Camille/Desktop/KICAD/LIB/Licensed/NKKSWITCHES_SK14EG13/SK14EG13.stp"
+		(offset
+			(xyz 0 0 1)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 -90)
+		)
+	)
+)

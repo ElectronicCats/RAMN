@@ -5374,7 +5374,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2af8eed2-5bef-40f8-9f76-a1b439a8b0f3")
-		(property "Reference" "SW1"
+		(property "Reference" "SW3"
 			(at 116.84 107.95 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5427,6 +5427,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C7250022"
+			(at 116.84 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "7d20319e-b307-4378-8547-5211354db76a")
 		)
@@ -5448,7 +5459,7 @@
 		(instances
 			(project "chassis"
 				(path "/e002719d-0ac0-46ab-ae27-c279a7634c07"
-					(reference "SW1")
+					(reference "SW3")
 					(unit 1)
 				)
 			)

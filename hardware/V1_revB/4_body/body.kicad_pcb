@@ -6792,7 +6792,7 @@
 		(layer "F.Cu")
 		(uuid "1f8b0b05-fefb-4833-aa34-bee022a885d9")
 		(at 40.767 36.449)
-		(property "Reference" "SW2"
+		(property "Reference" "SW4"
 			(at -2.286 8.636 180)
 			(layer "F.SilkS")
 			(uuid "49bed5f9-c458-48b7-8c3f-76236413959f")
@@ -6835,6 +6835,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C34362858"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "112d35de-1f1a-49ed-9464-c969b0ab812f")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)

@@ -7106,7 +7106,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e36d924d-0613-4652-9aad-c5e4521d020e")
-		(property "Reference" "SW2"
+		(property "Reference" "SW4"
 			(at 167.64 91.44 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7159,6 +7159,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C34362858"
+			(at 167.64 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "1f82808b-7332-4bd4-b375-64e2d17b9e6c")
 		)
@@ -7174,7 +7185,7 @@
 		(instances
 			(project "body"
 				(path "/a57f77f6-6a96-464e-9c74-0d342c7a10ff"
-					(reference "SW2")
+					(reference "SW4")
 					(unit 1)
 				)
 			)

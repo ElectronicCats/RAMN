@@ -1278,7 +1278,7 @@
 			(size 0.8 0.95)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net "Net-(SW1-A)")
+			(net "Net-(SW3-A)")
 			(pintype "passive")
 			(uuid "094b8ff5-cf54-4bbb-8581-aff450c6d305")
 		)
@@ -1488,7 +1488,7 @@
 			(size 0.8 0.95)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net "Net-(SW1-A)")
+			(net "Net-(SW3-A)")
 			(pintype "passive")
 			(uuid "91084149-d23d-48a2-a1bc-464da9dfed90")
 		)
@@ -1497,7 +1497,7 @@
 			(size 0.8 0.95)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net "Net-(SW1-B)")
+			(net "Net-(SW3-B)")
 			(pintype "passive")
 			(uuid "b3a5e8db-e935-4d04-b2bf-7a635e38d160")
 		)
@@ -1707,7 +1707,7 @@
 			(size 0.8 0.95)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net "Net-(SW1-B)")
+			(net "Net-(SW3-B)")
 			(pintype "passive")
 			(uuid "c2d65cb8-6152-4b30-bccd-d51218ebd746")
 		)
@@ -1716,7 +1716,7 @@
 			(size 0.8 0.95)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net "Net-(SW1-C)")
+			(net "Net-(SW3-C)")
 			(pintype "passive")
 			(uuid "a496054e-0940-4b38-bf13-b1e6ecb11c38")
 		)
@@ -1926,7 +1926,7 @@
 			(size 0.8 0.95)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net "Net-(SW1-C)")
+			(net "Net-(SW3-C)")
 			(pintype "passive")
 			(uuid "40da5841-6ded-4209-893e-eb7ced4b3dbc")
 		)
@@ -3775,7 +3775,7 @@
 		(layer "F.Cu")
 		(uuid "2e845114-b77c-4149-b690-b5dc134a3da2")
 		(at 57.531 50.419 180)
-		(property "Reference" "SW1"
+		(property "Reference" "SW3"
 			(at -4.445 -7.239 0)
 			(layer "F.SilkS")
 			(uuid "fa97c83e-c538-40ae-acb2-bc011e9eb71c")
@@ -3818,6 +3818,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C7250022"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7ea3f6f5-108f-4019-9976-f66d13bfd3c4")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -3933,7 +3946,7 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net "Net-(SW1-A)")
+			(net "Net-(SW3-A)")
 			(pinfunction "A_2")
 			(pintype "input")
 			(uuid "d2d7eb45-cc8f-4888-a483-4386259b1282")
@@ -3955,7 +3968,7 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net "Net-(SW1-B)")
+			(net "Net-(SW3-B)")
 			(pinfunction "B_4")
 			(pintype "input")
 			(uuid "269f4f80-2fe2-4b7c-aeb5-83da6870b46a")
@@ -3977,7 +3990,7 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net "Net-(SW1-C)")
+			(net "Net-(SW3-C)")
 			(pinfunction "C_6")
 			(pintype "input")
 			(uuid "b99f0d82-2a82-47bf-94ab-d2ef6c97ce4d")
@@ -5831,7 +5844,7 @@
 		(end 37.782 48.07)
 		(width 0.4)
 		(layer "F.Cu")
-		(net "Net-(SW1-A)")
+		(net "Net-(SW3-A)")
 		(uuid "23575a4c-dfc9-4798-85d3-f15f68867edb")
 	)
 	(segment
@@ -5839,7 +5852,7 @@
 		(end 37.846 48.006)
 		(width 0.4)
 		(layer "F.Cu")
-		(net "Net-(SW1-A)")
+		(net "Net-(SW3-A)")
 		(uuid "5773a8e6-df2a-4f46-bee6-8a2c91406de9")
 	)
 	(segment
@@ -5847,7 +5860,7 @@
 		(end 39.37 49.085)
 		(width 0.4)
 		(layer "F.Cu")
-		(net "Net-(SW1-A)")
+		(net "Net-(SW3-A)")
 		(uuid "5c5de131-8fa4-4ca7-b633-c1d0203cdee2")
 	)
 	(segment
@@ -5855,7 +5868,7 @@
 		(end 37.782 49.085)
 		(width 0.4)
 		(layer "F.Cu")
-		(net "Net-(SW1-A)")
+		(net "Net-(SW3-A)")
 		(uuid "6d5dd1ad-4d34-4c8c-bb9d-e3aadc93fb6f")
 	)
 	(via
@@ -5873,7 +5886,7 @@
 			(back no)
 		)
 		(filling no)
-		(net "Net-(SW1-A)")
+		(net "Net-(SW3-A)")
 		(uuid "02c846ba-6e59-4cc1-b06d-68682a4d0c4b")
 	)
 	(segment
@@ -5881,7 +5894,7 @@
 		(end 40.132 50.292)
 		(width 0.4)
 		(layer "B.Cu")
-		(net "Net-(SW1-A)")
+		(net "Net-(SW3-A)")
 		(uuid "17efccf0-ab44-4c44-a647-e5f88ce87abf")
 	)
 	(segment
@@ -5889,7 +5902,7 @@
 		(end 49.403 50.292)
 		(width 0.4)
 		(layer "B.Cu")
-		(net "Net-(SW1-A)")
+		(net "Net-(SW3-A)")
 		(uuid "42bdec3a-cebb-468f-a0db-f70e93996a1b")
 	)
 	(segment
@@ -5897,7 +5910,7 @@
 		(end 52.451 53.34)
 		(width 0.4)
 		(layer "B.Cu")
-		(net "Net-(SW1-A)")
+		(net "Net-(SW3-A)")
 		(uuid "613f2b71-e0ef-4549-9d6b-10be7c3bc13e")
 	)
 	(segment
@@ -5905,7 +5918,7 @@
 		(end 42.736 49.403)
 		(width 0.4)
 		(layer "F.Cu")
-		(net "Net-(SW1-B)")
+		(net "Net-(SW3-B)")
 		(uuid "0ffc347a-3034-42eb-93df-d7c057e03e97")
 	)
 	(segment
@@ -5913,7 +5926,7 @@
 		(end 42.418 49.085)
 		(width 0.4)
 		(layer "F.Cu")
-		(net "Net-(SW1-B)")
+		(net "Net-(SW3-B)")
 		(uuid "47461d5f-8507-43f8-b2e8-86e6da8e3cbf")
 	)
 	(segment
@@ -5921,7 +5934,7 @@
 		(end 41.338 49.085)
 		(width 0.4)
 		(layer "F.Cu")
-		(net "Net-(SW1-B)")
+		(net "Net-(SW3-B)")
 		(uuid "56d4a63e-b61d-47d8-9494-20a5e03dd868")
 	)
 	(segment
@@ -5929,7 +5942,7 @@
 		(end 42.418 49.085)
 		(width 0.4)
 		(layer "F.Cu")
-		(net "Net-(SW1-B)")
+		(net "Net-(SW3-B)")
 		(uuid "7c0bfac9-d43c-402d-a400-70af7e2569e0")
 	)
 	(segment
@@ -5937,7 +5950,7 @@
 		(end 39.688 47.435)
 		(width 0.4)
 		(layer "F.Cu")
-		(net "Net-(SW1-B)")
+		(net "Net-(SW3-B)")
 		(uuid "e91aa1b9-7762-42c4-ad2c-32e7322774a5")
 	)
 	(via
@@ -5955,7 +5968,7 @@
 			(back no)
 		)
 		(filling no)
-		(net "Net-(SW1-B)")
+		(net "Net-(SW3-B)")
 		(uuid "c5e4b145-ebd3-4b07-bc99-a741f9a3b59b")
 	)
 	(segment
@@ -5963,7 +5976,7 @@
 		(end 51.054 49.403)
 		(width 0.4)
 		(layer "B.Cu")
-		(net "Net-(SW1-B)")
+		(net "Net-(SW3-B)")
 		(uuid "324091b0-bd9b-4415-a544-3bc6d2cd53cb")
 	)
 	(segment
@@ -5971,7 +5984,7 @@
 		(end 43.942 49.403)
 		(width 0.4)
 		(layer "B.Cu")
-		(net "Net-(SW1-B)")
+		(net "Net-(SW3-B)")
 		(uuid "b3ec8653-51d7-4541-bd3b-ed4e2320271c")
 	)
 	(segment
@@ -5979,7 +5992,7 @@
 		(end 45.466 47.435)
 		(width 0.4)
 		(layer "F.Cu")
-		(net "Net-(SW1-C)")
+		(net "Net-(SW3-C)")
 		(uuid "76eed6a3-3d0a-4efc-9640-5ea980fe39e4")
 	)
 	(segment
@@ -5987,7 +6000,7 @@
 		(end 45.466 47.435)
 		(width 0.4)
 		(layer "F.Cu")
-		(net "Net-(SW1-C)")
+		(net "Net-(SW3-C)")
 		(uuid "771c47a2-983d-4f27-a1c5-5b3419c62ba2")
 	)
 	(segment
@@ -5995,7 +6008,7 @@
 		(end 46.291 48.26)
 		(width 0.4)
 		(layer "F.Cu")
-		(net "Net-(SW1-C)")
+		(net "Net-(SW3-C)")
 		(uuid "9a61e8c0-f908-4ad5-b7e1-308750247fdf")
 	)
 	(zone
