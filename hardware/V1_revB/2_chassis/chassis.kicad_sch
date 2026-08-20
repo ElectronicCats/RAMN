@@ -3254,7 +3254,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "~"
 			(at 128.27 155.0924 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3297,15 +3297,31 @@
 				)
 			)
 		)
-		(property "LCSC" "C226259"
-			(at 128.27 160.02 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
+		(property "manf#" "OS102011MA1QN1"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "lcsc#" "C226259"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Category" "Electronic Components / Switches"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -3424,7 +3440,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "~"
 			(at 95.25 55.2196 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3467,15 +3483,31 @@
 				)
 			)
 		)
-		(property "LCSC" "C2897414"
-			(at 93.98 68.58 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
+		(property "manf#" "PM254-2-13-Z-8.5"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "lcsc#" "C2897414"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Category" "Electronic Components / Connectors"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "10"
@@ -3631,15 +3663,13 @@
 				)
 			)
 		)
-		(property "LCSC" ""
-			(at 26.67 44.45 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
+		(property "Category" "Production & Packaging / Screws & Hardware"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(instances
@@ -3794,15 +3824,31 @@
 				)
 			)
 		)
-		(property "LCSC" "C73809"
-			(at 96.52 105.41 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
+		(property "manf#" "RS-03K103JT"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "lcsc#" "C73809"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Category" "Electronic Components / Resistors"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -3963,15 +4009,31 @@
 				)
 			)
 		)
-		(property "LCSC" "C73809"
-			(at 96.52 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
+		(property "manf#" "RS-03K103JT"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "lcsc#" "C73809"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Category" "Electronic Components / Resistors"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -4055,15 +4117,31 @@
 				)
 			)
 		)
-		(property "LCSC" "C73809"
-			(at 96.52 120.65 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
+		(property "manf#" "RS-03K103JT"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "lcsc#" "C73809"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Category" "Electronic Components / Resistors"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -4147,15 +4225,31 @@
 				)
 			)
 		)
-		(property "LCSC" "C73809"
-			(at 96.52 128.27 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
+		(property "manf#" "RS-03K103JT"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "lcsc#" "C73809"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Category" "Electronic Components / Resistors"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -4239,15 +4333,31 @@
 				)
 			)
 		)
-		(property "LCSC" "C73809"
-			(at 119.38 154.94 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
+		(property "manf#" "RS-03K103JT"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "lcsc#" "C73809"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Category" "Electronic Components / Resistors"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -4331,15 +4441,13 @@
 				)
 			)
 		)
-		(property "LCSC" ""
-			(at 26.67 39.37 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
+		(property "Category" "Production & Packaging / Screws & Hardware"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(instances
@@ -4494,15 +4602,31 @@
 				)
 			)
 		)
-		(property "LCSC" "C282519"
-			(at 137.16 59.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
+		(property "manf#" "TCC0603X7R104K500CT"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "lcsc#" "C282519"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Category" "Electronic Components / Capacitors"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -4663,15 +4787,31 @@
 				)
 			)
 		)
-		(property "LCSC" "C1849694"
-			(at 151.13 59.69 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
+		(property "manf#" "SMF5V0TR"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "lcsc#" "C1849694"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Category" "Electronic Components / Other Components"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -4832,15 +4972,31 @@
 				)
 			)
 		)
-		(property "LCSC" "C1849694"
-			(at 140.97 128.27 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
+		(property "manf#" "SMF5V0TR"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "lcsc#" "C1849694"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Category" "Electronic Components / Other Components"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -5001,15 +5157,31 @@
 				)
 			)
 		)
-		(property "LCSC" "C1849694"
-			(at 115.57 165.1 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
+		(property "manf#" "SMF5V0TR"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "lcsc#" "C1849694"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Category" "Electronic Components / Other Components"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -5170,15 +5342,13 @@
 				)
 			)
 		)
-		(property "LCSC" ""
-			(at 25.4 176.53 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
+		(property "Category" "Electronic Components / Other Components"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(instances
@@ -5256,15 +5426,13 @@
 				)
 			)
 		)
-		(property "LCSC" ""
-			(at 41.91 176.53 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
+		(property "Category" "Electronic Components / Other Components"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(instances
@@ -5342,15 +5510,13 @@
 				)
 			)
 		)
-		(property "LCSC" ""
-			(at 58.42 176.53 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
+		(property "Category" "Electronic Components / Other Components"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(instances
@@ -5384,7 +5550,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "~"
 			(at 116.84 116.84 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5427,15 +5593,31 @@
 				)
 			)
 		)
-		(property "LCSC" "C7250022"
-			(at 116.84 116.84 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
+		(property "manf#" "NR01104ANG13-2A"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "lcsc#" "C7250022"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Category" "Electronic Components / Switches"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -5564,15 +5746,31 @@
 				)
 			)
 		)
-		(property "LCSC" "C6139964"
-			(at 170.18 55.88 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
+		(property "manf#" "P120K-Y20BR50K"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "lcsc#" "C6139964"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Category" "Electronic Components / Resistors"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"

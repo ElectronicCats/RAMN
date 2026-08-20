@@ -5249,15 +5249,31 @@
 				)
 			)
 		)
-		(property "LCSC#" "C2969980"
-			(at 226.06 101.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
+		(property "manf#" "STM32L552CET6"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "lcsc#" "C2969980"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Category" "Electronic Components / Integrated Circuits"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "22"
@@ -5490,15 +5506,31 @@
 				)
 			)
 		)
-		(property "LCSC#" "C599645"
-			(at 209.55 44.45 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
+		(property "manf#" "C0603C104J3RAC7867"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "lcsc#" "C599645"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Category" "Electronic Components / Capacitors"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -5593,15 +5625,31 @@
 				)
 			)
 		)
-		(property "LCSC#" "C599645"
-			(at 213.36 44.45 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
+		(property "manf#" "C0603C104J3RAC7867"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "lcsc#" "C599645"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Category" "Electronic Components / Capacitors"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -5916,15 +5964,31 @@
 				)
 			)
 		)
-		(property "LCSC#" "C1848"
-			(at 186.69 43.18 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
+		(property "manf#" "CL31B105KBHNNNE"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "lcsc#" "C1848"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Category" "Electronic Components / Capacitors"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -6019,15 +6083,31 @@
 				)
 			)
 		)
-		(property "LCSC#" "C599645"
-			(at 186.69 63.5 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
+		(property "manf#" "C0603C104J3RAC7867"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "lcsc#" "C599645"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Category" "Electronic Components / Capacitors"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -6264,15 +6344,31 @@
 				)
 			)
 		)
-		(property "LCSC#" "C889706"
-			(at 151.13 78.74 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
+		(property "manf#" "NX3225GD-8MHZ-STD-CRA-3"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "lcsc#" "C889706"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Category" "Electronic Components / Crystals & Oscillators"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -6367,15 +6463,31 @@
 				)
 			)
 		)
-		(property "LCSC#" "C9807"
-			(at 142.24 83.82 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
+		(property "manf#" "CL31A106KAHNNNE"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "lcsc#" "C9807"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Category" "Electronic Components / Capacitors"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -6470,15 +6582,31 @@
 				)
 			)
 		)
-		(property "LCSC#" "C9807"
-			(at 158.75 83.82 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
+		(property "manf#" "CL31A106KAHNNNE"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "lcsc#" "C9807"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Category" "Electronic Components / Capacitors"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -6672,7 +6800,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "~"
 			(at 174.5742 93.7768 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6716,15 +6844,31 @@
 				)
 			)
 		)
-		(property "LCSC#" "C5277086"
-			(at 175.26 95.25 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
+		(property "manf#" "RH-5000"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "lcsc#" "C5277086"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Category" "Electronic Components / Switches"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -6760,7 +6904,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "~"
 			(at 120.65 114.9096 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6803,15 +6947,31 @@
 				)
 			)
 		)
-		(property "LCSC#" "C2897414"
-			(at 119.38 133.35 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
+		(property "manf#" "PM254-2-13-Z-8.5"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "lcsc#" "C2897414"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Category" "Electronic Components / Connectors"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -6966,15 +7126,31 @@
 				)
 			)
 		)
-		(property "LCSC#" "C124015"
-			(at 59.69 43.18 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
+		(property "manf#" "MCP2558FD-H/SN"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "lcsc#" "C124015"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Category" "Electronic Components / Integrated Circuits"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "4"
@@ -7087,15 +7263,31 @@
 				)
 			)
 		)
-		(property "LCSC#" "C599645"
-			(at 20.32 48.26 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
+		(property "manf#" "C0603C104J3RAC7867"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "lcsc#" "C599645"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Category" "Electronic Components / Capacitors"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -7267,15 +7459,31 @@
 				)
 			)
 		)
-		(property "LCSC#" "C599645"
-			(at 66.04 25.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
+		(property "manf#" "C0603C104J3RAC7867"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "lcsc#" "C599645"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Category" "Electronic Components / Capacitors"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -7588,6 +7796,15 @@
 				)
 			)
 		)
+		(property "Category" "Electronic Components / Resistors"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "023e4b91-8841-44b8-b0f5-faa9c9a7fe6c")
 		)
@@ -7744,15 +7961,31 @@
 				)
 			)
 		)
-		(property "LCSC#" "C98220"
-			(at 176.53 90.17 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
+		(property "manf#" "RC0603FR-0710KL"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "lcsc#" "C98220"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Category" "Electronic Components / Resistors"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"

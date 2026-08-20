@@ -136,12 +136,38 @@
 				)
 			)
 		)
-		(property "LCSC" "C209220"
-			(at 0 0 90)
+		(property "manf#" "RMS06JT103"
+			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "80ad0af9-f93b-424b-b409-342566e46c77")
+			(uuid "504ed347-98a9-40bc-8ee9-41f8cd11c56e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "lcsc#" "C209220"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "04e4a2d5-a39c-4166-bff7-004997317517")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Category" "Electronic Components / Resistors"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "97f95b94-a54b-474f-aede-e0c6eddf6a54")
 			(effects
 				(font
 					(size 1 1)
@@ -355,12 +381,38 @@
 				)
 			)
 		)
-		(property "LCSC" "C209220"
-			(at 0 0 270)
+		(property "manf#" "RMS06JT103"
+			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a7beb7d3-e1b1-4655-8420-e9d342951863")
+			(uuid "c6aa79fe-f9a2-4849-b77b-0ae541086c89")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "lcsc#" "C209220"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5b0def5d-5971-4fc7-827e-288235b79562")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Category" "Electronic Components / Resistors"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f101a7bb-84ae-4ce1-9e8c-023b1ebbebdb")
 			(effects
 				(font
 					(size 1 1)
@@ -574,12 +626,38 @@
 				)
 			)
 		)
-		(property "LCSC" "C209220"
-			(at 0 0 270)
+		(property "manf#" "RMS06JT103"
+			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "387dc504-4547-4cca-9fd9-02d2c6d03358")
+			(uuid "90dd2787-582f-4f9a-95e4-5699014ae643")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "lcsc#" "C209220"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6f6c6fca-5927-4078-9f51-59154e6e483d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Category" "Electronic Components / Resistors"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "284f3c42-8d65-44ac-8837-9d474df6474d")
 			(effects
 				(font
 					(size 1 1)
@@ -793,12 +871,38 @@
 				)
 			)
 		)
-		(property "LCSC" "C209220"
-			(at 0 0 90)
+		(property "manf#" "RMS06JT103"
+			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "574ba9b1-82dc-4dad-b23a-20a52e3288d5")
+			(uuid "0109f3b5-7788-4d62-9c82-6f4b38a76ca5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "lcsc#" "C209220"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c909ce80-93af-4773-a9ac-06e147b86d22")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Category" "Electronic Components / Resistors"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a3c4a531-bd99-4ead-86ad-46dd2af27e2a")
 			(effects
 				(font
 					(size 1 1)
@@ -1012,12 +1116,38 @@
 				)
 			)
 		)
-		(property "LCSC" "C209220"
-			(at 0 0 270)
+		(property "manf#" "RMS06JT103"
+			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a5724e9b-3677-47b7-832e-c5ab752d159d")
+			(uuid "870b1370-ba79-4dad-9615-3ea478ad09ce")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "lcsc#" "C209220"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "af3c4ccd-a78f-4513-8554-3886925aba19")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Category" "Electronic Components / Resistors"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "454d1c10-4054-42e1-a3ba-3ab0a2cf1767")
 			(effects
 				(font
 					(size 1 1)
@@ -1231,12 +1361,38 @@
 				)
 			)
 		)
-		(property "LCSC" "C282519"
-			(at 0 0 90)
+		(property "manf#" "TCC0603X7R104K500CT"
+			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "221585c7-8ec1-4a15-828d-027c7308c9f3")
+			(uuid "5c31d578-2aac-421f-8419-309ddd11563f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "lcsc#" "C282519"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7bbd7cd3-cafa-420d-9b13-a5246fcdd1c0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Category" "Electronic Components / Capacitors"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "021a712e-c766-4b43-90ff-e27ad9baf7f3")
 			(effects
 				(font
 					(size 1 1)
@@ -1451,12 +1607,12 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "Category" "Production & Packaging / Screws & Hardware"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9fb449d1-7cc5-4ac0-bc08-b17c508ae325")
+			(uuid "a99a84b2-d881-4850-8cc9-de2260baffe1")
 			(effects
 				(font
 					(size 1 1)
@@ -1572,12 +1728,12 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "Category" "Production & Packaging / Screws & Hardware"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5cf26996-a84c-46a6-b95d-d583359a80ed")
+			(uuid "79b6a28e-c34a-4ee5-8999-6bc499306582")
 			(effects
 				(font
 					(size 1 1)
@@ -1692,12 +1848,38 @@
 				)
 			)
 		)
-		(property "LCSC" "C2897414"
-			(at 0 0 270)
+		(property "manf#" "PM254-2-13-Z-8.5"
+			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b5247bea-65c2-4bd3-81e8-5dd068b550dc")
+			(uuid "9501ae7d-7c3c-4c89-8250-00182cfb018e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "lcsc#" "C2897414"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cc25a699-62e7-44be-9364-1e35086395aa")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Category" "Electronic Components / Connectors"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "49eaa60a-2048-4953-9802-cd610aedb486")
 			(effects
 				(font
 					(size 1 1)
@@ -2262,12 +2444,38 @@
 				)
 			)
 		)
-		(property "LCSC" "C282519"
-			(at 0 0 270)
+		(property "manf#" "TCC0603X7R104K500CT"
+			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "63d67d95-5cb2-4133-ab58-7d790ff2a620")
+			(uuid "b2582b24-4d7f-4362-865d-016382f3bec3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "lcsc#" "C282519"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b927cb37-e933-4a2b-b355-96c9b11da5d4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Category" "Electronic Components / Capacitors"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a4fcc628-4e1b-45bb-8d0b-dabdaa7aab2b")
 			(effects
 				(font
 					(size 1 1)
@@ -2481,12 +2689,38 @@
 				)
 			)
 		)
-		(property "LCSC" "C209220"
-			(at 0 0 90)
+		(property "manf#" "RMS06JT103"
+			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "aa7c153c-fba2-4630-a740-b07ffe6b40e5")
+			(uuid "28938290-37b8-4bef-bb01-ed972107043f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "lcsc#" "C209220"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a50d86e2-314c-4c0f-9394-265f63801784")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Category" "Electronic Components / Resistors"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2ac82f4b-7456-411c-8183-179ad60235d7")
 			(effects
 				(font
 					(size 1 1)
@@ -2700,12 +2934,38 @@
 				)
 			)
 		)
-		(property "LCSC" "C1849694"
-			(at 0 0 270)
+		(property "manf#" "SMF5V0TR"
+			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3f79d986-6b1d-4e1f-ada5-caa1b5d1d8a9")
+			(uuid "1fbe9964-1018-4fd0-bfac-be3e1621554f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "lcsc#" "C1849694"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "366874eb-75f9-416e-bc4b-65b594ba0dfe")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Category" "Electronic Components / Other Components"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "08d2cdc0-66be-4ad7-a7d6-f74a5252ec71")
 			(effects
 				(font
 					(size 1 1)
@@ -2999,12 +3259,38 @@
 				)
 			)
 		)
-		(property "LCSC" "C1849694"
-			(at 0 0 270)
+		(property "manf#" "SMF5V0TR"
+			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6bdf5719-be2c-44cd-bd4f-ce67c0b82c56")
+			(uuid "065a1aee-e339-4a37-a78a-4b4622e13664")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "lcsc#" "C1849694"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6cf1f03d-208d-4e9a-ac62-6d4150387d09")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Category" "Electronic Components / Other Components"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3f6a269b-de9e-4874-9a18-7f54ed2f6596")
 			(effects
 				(font
 					(size 1 1)
@@ -3298,12 +3584,38 @@
 				)
 			)
 		)
-		(property "LCSC" "C1849694"
-			(at 0 0 270)
+		(property "manf#" "SMF5V0TR"
+			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b16fe5d0-55c4-4994-9e91-8a92b02599b2")
+			(uuid "1c79f1aa-3810-46fb-81e5-ed0caa19924e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "lcsc#" "C1849694"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0de1a3e0-7332-4598-9a12-570ae882220d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Category" "Electronic Components / Other Components"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "60da937c-4812-43b7-84f0-eff9a446b3a6")
 			(effects
 				(font
 					(size 1 1)
@@ -3598,12 +3910,12 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "Category" "Electronic Components / Other Components"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ae0e904c-e1d0-49da-9bef-81279249a88b")
+			(uuid "bdb233b1-e18f-40ff-96ef-1d480955c1b5")
 			(effects
 				(font
 					(size 1 1)
@@ -3719,12 +4031,12 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "Category" "Electronic Components / Other Components"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6eeb27a7-9098-4241-b97e-87943d8b7659")
+			(uuid "5c4f0262-5fb6-462e-93be-dbb701894933")
 			(effects
 				(font
 					(size 1 1)
@@ -3840,12 +4152,12 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "Category" "Electronic Components / Other Components"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ce7e1b7e-50ac-4fc0-8070-1f627cb17abd")
+			(uuid "f6779a19-a47a-4f98-b13c-42f935125e19")
 			(effects
 				(font
 					(size 1 1)
@@ -3959,12 +4271,38 @@
 				)
 			)
 		)
-		(property "LCSC" "C202415"
-			(at 0 0 135)
+		(property "manf#" "SKRHADE010"
+			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9d673b42-5a2c-4dec-8bc8-3325038323f3")
+			(uuid "6977eef3-da9f-44fd-ab10-022e18a797fa")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "lcsc#" "C202415"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1673f622-e70e-4911-8e5c-ac35e42db820")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Category" "Electronic Components / Switches"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "23823583-3825-4950-8f7e-77c8e0f9b343")
 			(effects
 				(font
 					(size 1 1)
@@ -4296,12 +4634,38 @@
 				)
 			)
 		)
-		(property "LCSC" "C5277086"
+		(property "manf#" "RH-5000"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "26b83554-2e60-4e26-a783-aea491fe6858")
+			(uuid "a7aa80e4-85f3-45a9-abd2-0b95ceca916c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "lcsc#" "C5277086"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ba7bc9cf-8c02-46cb-a9b0-ac13b70bee48")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Category" "Electronic Components / Other Components"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c238df12-6259-425c-b6a2-d1a03ff3d985")
 			(effects
 				(font
 					(size 1 1)
@@ -4458,12 +4822,38 @@
 				)
 			)
 		)
-		(property "LCSC" "C470417"
-			(at 0 0 90)
+		(property "manf#" "RS15111A900B"
+			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "27da6fd7-8205-4929-b76d-2cea57489210")
+			(uuid "833d0602-c842-4e36-a6e5-9e22bc3ce31b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "lcsc#" "C470417"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0e736c8b-ac25-496c-99bb-f802ee10f398")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Category" "Electronic Components / Resistors"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "97bf0e72-af4c-44b1-b968-21509708ee7b")
 			(effects
 				(font
 					(size 1 1)
@@ -4703,12 +5093,38 @@
 				)
 			)
 		)
-		(property "LCSC" "C5277086"
+		(property "manf#" "RH-5000"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8fd21244-1614-47ff-b01f-f529ead2060e")
+			(uuid "01c39e13-51f5-437a-9b33-66c390082d98")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "lcsc#" "C5277086"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "42e61256-dbf6-4b70-8e47-d126b29efe90")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Category" "Electronic Components / Other Components"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "52e3c091-8611-4448-b146-fde6a92b6c8b")
 			(effects
 				(font
 					(size 1 1)
@@ -4825,12 +5241,38 @@
 				)
 			)
 		)
-		(property "LCSC" "C5277086"
+		(property "manf#" "RH-5000"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1b811441-979c-45d8-85fc-745083be587f")
+			(uuid "4f384d1e-e962-4e3c-9fd0-065fcbc80021")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "lcsc#" "C5277086"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d5bf5987-c9e9-4692-9f3b-1748a8a32107")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Category" "Electronic Components / Other Components"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3d14c320-2e36-4a5f-85c5-9ad640810d87")
 			(effects
 				(font
 					(size 1 1)
@@ -4947,12 +5389,38 @@
 				)
 			)
 		)
-		(property "LCSC" "C5277086"
+		(property "manf#" "RH-5000"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "900dca35-9cf5-46c1-8918-cc72ec53dc5f")
+			(uuid "5104b088-6bdb-45b8-b9cf-d7ee4c27d457")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "lcsc#" "C5277086"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a4706879-f9e9-4345-80aa-23e6510e4a3f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Category" "Electronic Components / Other Components"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a534b8b1-02a9-46da-91dd-878b85dc28df")
 			(effects
 				(font
 					(size 1 1)
@@ -5109,12 +5577,38 @@
 				)
 			)
 		)
-		(property "LCSC" "C470417"
-			(at 0 0 90)
+		(property "manf#" "RS15111A900B"
+			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0bb88b10-0fc9-4c7d-ab73-4cb43f9dc451")
+			(uuid "9255b106-37f3-4361-9f9e-93b0c1ee1e09")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "lcsc#" "C470417"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "df98d627-5e9e-4ca3-a83a-73bc4d4754b9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Category" "Electronic Components / Resistors"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d1ea0f55-06b9-4d98-8319-a14ca2930d3e")
 			(effects
 				(font
 					(size 1 1)
@@ -5354,12 +5848,38 @@
 				)
 			)
 		)
-		(property "LCSC" "C5277086"
+		(property "manf#" "RH-5000"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "55c28608-5f79-4cc1-a132-429a25c1f23c")
+			(uuid "90f32e45-21bc-47bd-a745-4fc714495729")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "lcsc#" "C5277086"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8f115d96-4514-4366-8e05-22eccb517642")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Category" "Electronic Components / Other Components"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cc597812-99cc-4817-bcdb-3e4b251e8817")
 			(effects
 				(font
 					(size 1 1)
